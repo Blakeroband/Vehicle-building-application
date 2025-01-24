@@ -3,7 +3,7 @@
   https://img.shields.io/badge/License-MIT-yellow.svg
 
   ## Description
-  This project allows the user to build a vehicle or choose an existing vehicle. the vehicle can then preform different actions depending on the vehicle type. all of these actions and the vehicles information are logged to the terminal.
+  This project allows the user to build a vehicle or choose an existing vehicle. the vehicle can then preform different actions depending on the vehicle type. some of the actions included are starting the engine, stopting the engine, accelerating and deccelerating and many others, some vehicle types have abilities others don't like wheelies for motorbikes and towing for trucks. all of these actions and the vehicles information are logged to the terminal.
 
   ## Table of Contents
   - [installation](#installation)
