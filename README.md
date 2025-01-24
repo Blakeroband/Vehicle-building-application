@@ -16,7 +16,7 @@
   to install this project, download the files from github and open the terminal. type "npm i" to install the dependencies and then type npm run start to start the application.
 
   ## contributions
-  Tristain Persaud, Nick Bappe,  Gage Degerness and Kelly Hookham
+  Tristain Persaud, Nick Bappe, Gage Degerness and Kelly Hookham
 
   ## usage
   to use this application, use npm run start and follow the prompts, answser the questions and select actions you want your vehicle to preform.
