@@ -11,16 +11,16 @@
   - [usage](#usage)
   - [test](#test)
   - [license](#license)
-
+ 
   ## installation
   to install this project, download the files from github and open the terminal. type "npm i" to install the dependencies and then type npm run start to start the application.
 
   ## contributions
   Tristain Persaud - assited in getting my develop folder out of my downloads folder and into my repository
-  Nick Bappe - pushed us in the right direction for Motorbikes, Truck and vehicle files, helped us figure out where things were being referenced from
+  Nick Bappe - pushed us in the right direction for Motorbike, Truck and vehicle files & helped us figure out where things were being referenced from
   Gage Degerness - moral support
   Kelly Hookham - moral support
-
+  Jacobus Berghoefer - helped me find the final error to get everything running (white space in a string)
   ## usage
   to use this application, use npm run start and follow the prompts, answser the questions and select actions you want your vehicle to preform.
   
@@ -30,3 +30,6 @@
   ## license
   MIT license: 
 https://opensource.org/licenses/MIT
+
+ ## video link
+ https://drive.google.com/file/d/1VrhmOgXGc-TGHvey6VQfN_XMINBrwWbq/view?usp=sharing
