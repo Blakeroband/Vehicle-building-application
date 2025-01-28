@@ -68,7 +68,7 @@ class Cli {
           this.createCar();
         } else if (answers.vehicleType === `Truck`) {
           this.createTruck();
-        } else if (answers.vehicleType === `Motorbike `) {
+        } else if (answers.vehicleType === `Motorbike`) {
           this.createMotorbike();
         }
       });
@@ -390,7 +390,7 @@ class Cli {
           } else {
             console.log(`this is not a motorbike`)
           }
-        }else if (answers.action === 'Select or create another vehicle') {
+        } else if (answers.action === 'Select or create another vehicle') {
           // start the cli to return to the initial prompt if the user wants to select or create another vehicle
           this.startCli();
           return;
