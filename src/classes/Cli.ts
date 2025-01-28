@@ -386,7 +386,6 @@ class Cli {
           const selectedVehicle = this.vehicles.find(vehicle => vehicle.vin === this.selectedVehicleVin);
           if(selectedVehicle instanceof Motorbike) {
             console.log(`you popped a wheelie`);
-            return;
           } else {
             console.log(`this is not a motorbike`)
           }

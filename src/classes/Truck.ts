@@ -5,6 +5,7 @@ import Car from './Car.js';
 import Wheel from './Wheel.js';
 import AbleToTow from '../interfaces/AbleToTow.js';
 
+// vehicle class that extends Vehicle class
 class Truck extends Vehicle implements AbleToTow{
   vin: string;
   color: string;
